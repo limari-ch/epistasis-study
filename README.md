@@ -12,7 +12,7 @@ All scripts are written in Python (v3.12.4) and R (v4.5.0):
 6. table_positively_selected_sites.py
 7. plotting.R
 
-Due to GISAID data-sharing restrictions, raw sequences and metadata are not included. However, the structure and input format are provided to enable other researchers to reproduce the workflow with their own datasets.
+Due to GISAID data-sharing restrictions, raw sequences and metadata are not included.
 
 
 
